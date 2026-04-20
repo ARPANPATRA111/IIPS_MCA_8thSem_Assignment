@@ -1,10 +1,19 @@
 # IIPS_MCA_8th_Sem
-save yourself from 30 min GPT ride! i have added most of the content required to pass the exams as well as assignments star the repo and save it for later
-TOC -> yasmin mam
-SC -> dongre sir
-DMW -> Jatav sir
-EC -> Ramesh sir
-MWC -> manju mam
+**save yourself from 30 min GPT ride!** 
+
+i have added most of the content required to pass the exams, and complete assignments. 
+
+star the repo and save it for later
+
+> TOC -> yasmin mam
+
+> SC -> dongre sir
+
+> DMW -> Jatav sir
+
+> EC -> Ramesh sir
+
+> MWC -> manju mam
 
 
 | File Name | Direct Link |
@@ -17,6 +26,7 @@ MWC -> manju mam
 | ECT_Book.pdf | [ECT_Book.pdf](ECT_Book.pdf) |
 | MWC_Assignement.pdf | [MWC_Assignement.pdf](MWC_Assignement.pdf) |
 | TOC_Assignment | Khud kr lena |
+| ECT_Assignment | Assignment was was to create handwritten notes of Ch-8,9,12,15 => https://www.notion.so/ECT-Assignment-346f42f3d9fb80c599b3e99638bf328a?source=copy_link |
 | MWC_Questions_for_internal1.docx | [Questions_for_internal1.docx](Questions_for_internal1.docx) |
 | MWC_Questions_for_internal21.jpg | [Questions_for_internal21.jpg](Questions_for_internal21.jpg) |
 | MWC_Questions_for_internal22.jpg | [Questions_for_internal22.jpg](Questions_for_internal22.jpg) |
