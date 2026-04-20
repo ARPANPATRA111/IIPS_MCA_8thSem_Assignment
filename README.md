@@ -26,7 +26,7 @@ star the repo and save it for later
 | ECT_Book.pdf | [ECT_Book.pdf](ECT_Book.pdf) |
 | MWC_Assignement.pdf | [MWC_Assignement.pdf](MWC_Assignement.pdf) |
 | TOC_Assignment | Khud kr lena |
-| ECT_Assignment | Assignment was was to create handwritten notes of Ch-8,9,12,15 => https://www.notion.so/ECT-Assignment-346f42f3d9fb80c599b3e99638bf328a?source=copy_link |
+| ECT_Assignment | Assignment was to create handwritten notes of Ch-8,9,12,15 from the book => https://www.notion.so/ECT-Assignment-346f42f3d9fb80c599b3e99638bf328a |
 | MWC_Questions_for_internal1.docx | [Questions_for_internal1.docx](Questions_for_internal1.docx) |
 | MWC_Questions_for_internal21.jpg | [Questions_for_internal21.jpg](Questions_for_internal21.jpg) |
 | MWC_Questions_for_internal22.jpg | [Questions_for_internal22.jpg](Questions_for_internal22.jpg) |
