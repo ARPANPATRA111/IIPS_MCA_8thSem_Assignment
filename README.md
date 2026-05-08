@@ -16,8 +16,14 @@ star the repo and save it for later
 > MWC -> manju mam
 
 
-| File Name | Direct Link |
+## Latest Addition
+
+The newly added 2026 PYQs folder is available here: [PYQS/2026](PYQS/2026)
+
+
+| File/Folder Name | Direct Link |
 |-----------|------------|
+| 2026 PYQs Folder | [PYQS/2026](PYQS/2026) |
 | 8 sem internal and end sem.pdf | [PYQS/8%20sem%20internal%20and%20end%20sem.pdf](PYQS/8%20sem%20internal%20and%20end%20sem.pdf) |
 | 8th sem Paper.pdf | [PYQS/8th%20sem%20Paper%20.pdf](PYQS/8th%20sem%20Paper%20.pdf) |
 | 8th Sem Papers (2023).pdf | [PYQS/8th%20Sem%20Papers%20(2023).pdf](PYQS/8th%20Sem%20Papers%20(2023).pdf) |
