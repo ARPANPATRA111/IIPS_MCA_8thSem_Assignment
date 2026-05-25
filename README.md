@@ -24,12 +24,15 @@ The newly added 2026 PYQs folder is available here: [PYQS/2026](PYQS/2026)
 | File/Folder Name | Direct Link |
 |-----------|------------|
 | 2026 PYQs Folder | [PYQS/2026](PYQS/2026) |
+| endsem.pdf | [MCA8th2026.pdf](MCA8th2026.pdf) |
 | 8 sem internal and end sem.pdf | [PYQS/8%20sem%20internal%20and%20end%20sem.pdf](PYQS/8%20sem%20internal%20and%20end%20sem.pdf) |
 | 8th sem Paper.pdf | [PYQS/8th%20sem%20Paper%20.pdf](PYQS/8th%20sem%20Paper%20.pdf) |
 | 8th Sem Papers (2023).pdf | [PYQS/8th%20Sem%20Papers%20(2023).pdf](PYQS/8th%20Sem%20Papers%20(2023).pdf) |
 | end sem papers 8th sem.pdf | [PYQS/end%20sem%20papers%208th%20sem.pdf](PYQS/end%20sem%20papers%208th%20sem.pdf) |
 | DataMining_Assignment.pdf | [DataMining_Assignment.pdf](DataMining_Assignment.pdf) |
 | ECT_Book.pdf | [ECT_Book.pdf](ECT_Book.pdf) |
+| Internal1 | [Internal1.jpg](Internal1.jpg) |
+| Internal2 | [Internal2.jpg](Internal2.jpg) |
 | MWC_Assignement.pdf | [MWC_Assignement.pdf](MWC_Assignement.pdf) |
 | TOC_Assignment | Khud kr lena |
 | ECT_Assignment | Assignment was to create handwritten notes of Ch-8,9,12,15 from the book => https://www.notion.so/ECT-Assignment-346f42f3d9fb80c599b3e99638bf328a |
